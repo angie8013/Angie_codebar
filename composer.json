@@ -1,0 +1,17 @@
+{
+    "name": "vendor/admin",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Admin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "angie8013",
+            "email": "gutierrezangietatiana@gmail.com"
+        }
+    ],
+    "require": {
+        "picqer/php-barcode-generator": "^2.4"
+    }
+}
